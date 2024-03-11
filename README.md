@@ -1,3 +1,18 @@
+**API & Web Challenge**
+
+The project uses the following technologies:
+
+- Node
+- Express
+- Vue3
+- Jest
+
+
+
+https://github.com/anshulkthr/assessment-yell/assets/9865547/f7594e63-a90b-4552-8696-e6d857eafc07
+
+
+
 # Yell's Front-End Engineering Coding Challenge
 ## Welcome
 The goal of this coding challenge is to give you, the candidate, an idea of the kind of tasks you may be working on, and to give us an idea of what level your skills are at, as well as, more importantly, the way in which you approach solving problems.
